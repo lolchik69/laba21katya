@@ -24,6 +24,7 @@ namespace pplab21katya
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     case '+':
                         Console.WriteLine($"Result: {a+b}");
 =======
@@ -38,6 +39,10 @@ namespace pplab21katya
                     case '/':
                         Console.WriteLine($"Result: {a/b}");
 >>>>>>> divide
+=======
+                    case 'e':
+                        checker = false;
+>>>>>>> exit
                         break;
                     default:
                         Console.WriteLine("Incorrect action");
