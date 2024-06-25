@@ -4,12 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//ctrl + s
+//git add .
+//git commit -am "aaaaa"
+//git push origin main
+
+
 namespace pplab21katya
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            //ДОБАВИЛА ИЗМЕНЕНИЕ
             Console.WriteLine("Input a: ");
             int a = int.Parse(Console.ReadLine());
             Console.WriteLine("Input b: ");
@@ -19,6 +26,8 @@ namespace pplab21katya
             bool checker = true;
             while (checker == true)
             {
+                //slkdjkjsdfhksjdfh
+                //exei
                 switch (c)
                 {
                     case '+':
