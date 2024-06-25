@@ -21,8 +21,13 @@ namespace pplab21katya
             {
                 switch (c)
                 {
+<<<<<<< HEAD
                     case '+':
                         Console.WriteLine($"Result: {a+b}");
+=======
+                    case '-':
+                        Console.WriteLine($"Result: {a-b}");
+>>>>>>> substract
                         break;
                     default:
                         Console.WriteLine("Incorrect action");
